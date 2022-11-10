@@ -1,7 +1,7 @@
 # TimeUtil
 Simple time util library for ```CountDownTimer``` ```CountUpTimer``` ```InfiniteCountUpTimer``` and other time related features like ```dateToTimestamp``` , ```timestampToDate``` and so on.
 
-##Features
+## Features
 - CountDown 
 - CountUp
 - InfiniteCountUp
@@ -12,7 +12,7 @@ and so on...
 ```TimeUtil``` also provides various time formats.
 
 
-##Usages
+## Usages
 
 for countdown timer,
 
